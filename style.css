@@ -1,0 +1,139 @@
+html{
+  background-color: #f4f8ff;
+  border: 10px solid #ff6d7e;
+}
+.cover-header{
+  color: #ffe607;
+}
+.home-cover{
+  background-image: url("image/happy-children.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid #ff6d7e;
+  height: 800px;
+}
+
+.topnav-li li{
+  float: right;
+  font-size: 30px;
+  list-style: none;
+  margin-right: 20px;
+  text-decoration: none;
+  font-family: 'Schoolbell', cursive;
+}
+
+.topnav-ul{
+  float: right;
+  clear: left;
+  position: absolute;
+  right: 20px;
+}
+.cover-ul{
+  margin: 0 auto;
+  width: 325px;
+  font-size: 30px;
+}
+
+.title-cover{
+  text-align: center;
+  width: auto;
+  font-family: 'Schoolbell', cursive;
+  font-size: 50px;
+}
+
+.page-header{
+  float: left;
+  line-height: 50px;
+  clear: left;
+  width: 100px;
+  font-size: 70px;
+  position: relative;
+  font-family: 'Schoolbell', cursive;
+  color: #ffe607;
+}
+
+.page-header-2{
+  float: left;
+  line-height: 50px;
+  clear: left;
+  width: 200px;
+  font-size: 70px;
+  font-family: 'Schoolbell', cursive;
+  color: #ffe607;
+}
+
+.main-content{
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.container-ceilng{
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+
+}
+
+.container-one{
+width: 500px;
+float: left;
+}
+
+.container-two{
+  width: 500px;
+  height: 840px;
+  float: right;
+}
+
+.footer{
+  text-align: center;
+  clear: both;
+  width: 1366px;
+  font-size: 40px;
+  font-family: 'Schoolbell', cursive;
+  background-color: #ff6d7e;
+}
+.background-image{
+background-image: url("image/happy-kids.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.wrapper-gallery{
+  background-image: url("image/happy-kids.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1360px;
+  height: 400px;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  color: #0d0284;
+}
+
+.font-style-ul{
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  color: #0d0284;
+}
+h1{
+  font-family: 'Schoolbell', cursive;
+  color: #0d0284;
+}
+
+a:link{
+  text-decoration: none;
+}
+a:hover{
+color: #e52e1d;
+}
+
+a:active{
+  color: #ffa007;
+}
+
+a{
+  color: #032cbf;
+}
