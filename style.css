@@ -63,7 +63,7 @@ html{
 }
 
 .main-content{
-  width: 1300px;
+  width: 1200px;
   margin: 0 auto;
 }
 
@@ -94,7 +94,7 @@ float: left;
   background-color: #ff6d7e;
 }
 .background-image{
-background-image: url("image/happy-kids.jpg");
+background-image:  url("image/happy-kids.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
